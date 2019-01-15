@@ -1,1 +1,1 @@
-# Angular-2-TypeScript-Kurulum-Dosyalari
+# Angular-2-TypeScript-Kurulum-Dosyaları
